@@ -110,15 +110,14 @@ Have ideas for improvement or want to contribute?
 
 ---
 
-## 📬 Contact Information
+## 📬 **Contact Information**  
 
-Feel free to reach out for collaborations or feedback:
-
-* **Email**: [miss.webdesigner0013@gmail.com](mailto:miss.webdesigner0013@gmail.com)
-* **GitHub**: [@SnehaghoshBarsha444](https://github.com/SnehaghoshBarsha444)
-* **LinkedIn**: [Sneha Ghosh](https://www.linkedin.com/in/sneha-ghosh-technical-isopod075/)
-* **Twitter/X**: [@IsopodTechnical](https://x.com/IsopodTechnical)
-* **Medium**: [@Technical\_Isopod\_075](https://medium.com/@Technical_Isopod_075)
+For inquiries or collaboration opportunities, connect via: 
+- **Email**: [Contact Me](mailto:miss.webdesigner0013@gmail.com)
+- **GitHub**: [GitHub Profile](https://github.com/SnehaghoshBarsha444)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/sneha-ghosh-technical-isopod075/)
+- **Twitter**: [@IsopodTechnical](https://x.com/IsopodTechnical)  
+- **Medium**: [Medium Profile](https://medium.com/@Technical_Isopod_075)
 
 ---
 
